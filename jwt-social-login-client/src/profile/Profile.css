@@ -1,0 +1,23 @@
+.profile-container {
+  max-width: 420px;
+  margin: 0 auto;
+  margin: 0 auto;
+  margin-top: 40px;
+  /* border: 1px solid #e1e0e0;
+  background-color: #fff;
+  border-radius: 10px; */
+}
+
+.user-avatar-circle {
+  width: 150px !important;
+  height: 150px !important;
+  cursor: pointer;
+}
+
+.ant-card-meta-title {
+  font-size: 28px !important;
+}
+
+.ant-card-meta-description {
+  font-size: 14px;
+}

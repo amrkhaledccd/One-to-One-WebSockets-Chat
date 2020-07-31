@@ -1,0 +1,27 @@
+.login-container {
+  max-width: 420px;
+  margin: 0 auto;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 30px 50px 10px 50px;
+  border: 1px solid #e1e0e0;
+  background-color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.login-form-button {
+  width: 100%;
+  background-color: rebeccapurple !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.login-with-facebook {
+  width: 100%;
+  background-color: #1877f2 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
